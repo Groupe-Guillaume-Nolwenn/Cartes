@@ -1,2 +1,2 @@
 # Cartes
-Mélangeur et distributeur de carte à jouer
+Mélangeur et distributeur de cartes à jouer
