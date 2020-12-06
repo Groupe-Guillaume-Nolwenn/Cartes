@@ -1,2 +1,2 @@
-# Cartes
-Mélangeur et distributeur de cartes à jouer
+# Pique'n Collect
+Trieur, mélangeur et distributeur de cartes à jouer
